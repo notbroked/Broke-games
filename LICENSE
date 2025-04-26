@@ -1,0 +1,26 @@
+Copyright (c) 2025 [notbroked]
+
+All content in this repository, except for the folder named "Godot-folders", is protected under the following terms:
+
+- You may view, share, and download the original files for personal use.
+- You may NOT modify, adapt, or create derivative works based on these files.
+- Redistribution must include full and clear credit to the original author ([notbroked]).
+
+The folder "Godot-folders" contains files from the Godot Engine and is licensed separately under the MIT License:
+
+MIT License (for "Godot-folders")
+------------------------------------
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the Godot Engine files, to deal in the Software without restriction,
+including without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, subject to the
+following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+------------------------------------
+
+By using any files in this repository, you agree to these terms.
