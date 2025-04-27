@@ -1,13 +1,12 @@
 
-
 #navbar {
-    position: sticky;
-top: 0;
-overflow: hidden;
-background-color: black;
-border-radius: 10px;
-width: 100%;
-/* ADD this to fix float collapse */
-display: flex;
-justify-content: left;
+	position: sticky;
+	top: 0;
+	overflow: hidden;
+	background-color: #333;
+	border-radius: 10px;
+	width: 100%;
+	/* ADD this to fix float collapse */
+	display: flex;
+	justify-content: left;	
 }
